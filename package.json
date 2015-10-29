@@ -1,0 +1,19 @@
+{
+  "author": "KentControl",
+  "name": "InfServer",
+  "description": "Infinity Server",
+  "version": "0.0.1",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {
+      "sockjs":"*",
+      "mysql" : "*",
+      "orm": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "0.10.21"
+  }
+}
